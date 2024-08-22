@@ -37,7 +37,7 @@ tmp:
 
     for (i = 1; i <= n; i++)
     {
-        if (i == 21)
+        if (i > 20)
         {
             break;
         }
